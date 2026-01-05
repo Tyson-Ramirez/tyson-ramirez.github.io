@@ -19,7 +19,7 @@ main:
     url: /research/
     
    - title: "Writing"
-    url: /portfolio/
+    url: /writing/
         
    - title: "Data and Code"
      url: /data-and-code/
