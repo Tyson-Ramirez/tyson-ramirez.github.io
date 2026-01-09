@@ -23,5 +23,8 @@ main:
   - title: "Data and Code"
     url: /data-and-code/
 
+  - title: "Misc."
+    url: /misc/
+
   # - title: "Guide"
   #   url: /markdown/
